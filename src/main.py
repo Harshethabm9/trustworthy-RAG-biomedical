@@ -10,7 +10,7 @@ import faiss
 def main():
 
     # 🔹 Load data
-    df = load_data("data/medquad.csv")
+    df = load_data("data/medquad_sample.csv")
 
     questions = df["question"].tolist()
     answers = df["answer"].tolist()
