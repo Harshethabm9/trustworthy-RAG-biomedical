@@ -14,3 +14,12 @@ The results of the project include multiple evaluation graphs such as BTI score 
 
 Overall, this project demonstrates how RAG systems can be extended beyond simple retrieval and generation to include trust, evaluation, and interpretability. This makes them more suitable for real-world applications where reliability is critical. In the future, this system can be further improved by integrating large language models, enhancing attribution mechanisms, and building an interactive interface for better usability.
 
+## Results
+
+Below are some sample evaluation results from the system:
+
+### BTI Score Distribution
+![BTI](assets/bti_distribution.png)
+
+### Confidence vs Attribution
+![Confidence](assets/confidence_vs_attribution.png)
