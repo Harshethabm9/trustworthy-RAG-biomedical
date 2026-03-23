@@ -22,4 +22,4 @@ Below are some sample evaluation results from the system:
 ![BTI](assets/bti_distribution.png)
 
 ### Confidence vs Attribution
-![Confidence](assets/confidence_vs_attribution.png)
+![Confidence](assets/confidence_vs_Attribution.png)
