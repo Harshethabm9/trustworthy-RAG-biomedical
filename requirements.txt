@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+seaborn
+tqdm
+sentence-transformers
+scikit-learn
+faiss-cpu
+rank-bm25
